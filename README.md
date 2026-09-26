@@ -84,8 +84,3 @@ desktop-creator
 4. Choose the application **Category** and toggle **Run in Terminal** if needed.
 5. Click **Create Desktop Entry**. Your app will immediately appear in your launcher!
 
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).

@@ -9,16 +9,6 @@ A modern, lightweight GTK 4 and Libadwaita utility designed for Arch-based Linux
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
-| Light Mode | Dark Mode |
-| :---: | :---: |
-| ![Light Mode Placeholder](https://via.placeholder.com/400x300?text=Light+Mode) | ![Dark Mode Placeholder](https://via.placeholder.com/400x300?text=Dark+Mode) |
-
----
-
 ## ✨ Features
 
 - 🎨 **Modern Libadwaita Interface**: Designed according to GNOME Human Interface Guidelines with automatic dark and light theme switching.
